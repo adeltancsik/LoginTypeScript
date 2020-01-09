@@ -8,3 +8,5 @@ Other technologies used:
 - routing-controllers
 - TypeORM
 - Postgres package (pg)
+- bcrypt
+- jsonwebtoken
